@@ -1,0 +1,18 @@
+.navbar-brand {
+    font-size: 45px;
+}
+
+.search-header {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 34px;
+    font-weight: bold;
+
+}
+
+.forecast-date {
+    font-size: 20px;
+}
